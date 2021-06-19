@@ -1,0 +1,1 @@
+update.effective_chat.send_message("https://letmegooglethat.com/?q=" + quote(" ".join(text[1:])), disable_web_page_preview=True)

@@ -1,0 +1,1 @@
+update.message.reply_text("Polo!")
